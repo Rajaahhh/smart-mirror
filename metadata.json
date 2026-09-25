@@ -1,0 +1,7 @@
+{
+  "name": "Smart Mirror",
+  "description": "An over-engineered futuristic AI smart mirror with one single purpose: confidently verifying that you look beautiful.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
